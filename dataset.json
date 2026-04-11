@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 20% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 20% Active Restaurant Review Whales in Atlanta-Sandy Springs-Roswell Metro Area, GA, US",
+  "export_job_id": "649b7b5d-d8a9-467d-b241-a94a8b8b3a17",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 165296,
+  "location_name": "Atlanta-Sandy Springs-Roswell, GA",
+  "location_type": "metro",
+  "repo_name": "top-20-active-restaurant-review-whales-in-atlanta-sandy-springs-roswell-metro-area-sample-165296",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/165296/beamstation_165296_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 152,
+  "sample_sha256": "294f224f7baf28935700f4a4f50e92f62d88be19f9a5d438d8839a0189f9a53c",
+  "sample_size_bytes": 613082,
+  "total_records": 1525,
+  "updated_at": "2026-04-09T18:20:37.795180+00:00"
+}
