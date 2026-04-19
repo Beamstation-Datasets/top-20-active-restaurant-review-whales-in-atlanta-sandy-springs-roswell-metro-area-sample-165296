@@ -1,12 +1,12 @@
 {
-  "export_job_id": "649b7b5d-d8a9-467d-b241-a94a8b8b3a17",
+  "export_job_id": "121ae4e0-4bfd-472b-80e7-cb0c7edb6f80",
   "id_short": 165296,
-  "published_at": "2026-04-11T19:03:16Z",
+  "published_at": "2026-04-19T19:35:55Z",
   "repo_name": "top-20-active-restaurant-review-whales-in-atlanta-sandy-springs-roswell-metro-area-sample-165296",
   "sample_asset_name": "beamstation_165296_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/165296/beamstation_165296_restaurants-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
-  "sample_records": 152,
-  "sample_sha256": "294f224f7baf28935700f4a4f50e92f62d88be19f9a5d438d8839a0189f9a53c",
-  "sample_size_bytes": 613082,
-  "total_records": 1525
+  "sample_records": 65,
+  "sample_sha256": "71633a36e4812eccf9392355f55e110d69e65dad0dfe76b6a4098d9efc055f46",
+  "sample_size_bytes": 273311,
+  "total_records": 656
 }
